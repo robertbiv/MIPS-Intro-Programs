@@ -1,0 +1,31 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+env/
+
+# Node/JS
+node_modules/
+dist/
+build/
+
+# Java
+*.class
+.target/
+
+# C/C++
+*.o
+*.obj
+*.exe
+*.out
