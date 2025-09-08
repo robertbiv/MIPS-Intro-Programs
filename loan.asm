@@ -1,3 +1,4 @@
+#Robert Bennethum IV
 .data
     loan_amount: .asciiz "Enter loan amount: $"
     interest_rate: .asciiz "Enter interest rate (as %): "

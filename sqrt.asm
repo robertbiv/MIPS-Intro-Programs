@@ -1,3 +1,4 @@
+#Robert Bennethum IV
 #calc every square until greater than input, 
 #then output last square root
 .data
@@ -20,6 +21,7 @@ main:
     li $s1, 0
     li $s2, 1
     ble $s0, $zero, out
+    j loop
 
 loop:
     addi $s1, $s1, 1
